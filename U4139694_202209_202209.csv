@@ -1,0 +1,334 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,"Interactive Brokers Australia Pty Ltd., AFSL 453554, ABN 98 166 929 568"
+Statement,Data,BrokerAddress,"Level 40, Grosvenor Place, 255 George Street, Sydney NSW"
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"September 1, 2022 - September 30, 2022"
+Statement,Data,WhenGenerated,"2022-10-08, 12:33:06 AEDT"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Ridwan Setiawan
+Account Information,Data,Account,U4139694
+Account Information,Data,Address of Account Holder(s),"1237/1 Studio Drive,Eastgardens, AU-NSW 2036,Australia"
+Account Information,Data,Account Type,Individual
+Account Information,Data,Customer Type,Individual
+Account Information,Data,Account Capabilities,Cash
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,6832.814317234,25783.132438479,0,25783.132438479,18950.318121245
+Net Asset Value,Data,Stock,40248.19056,22889.30778,0,22889.30778,-17358.88278
+Net Asset Value,Data,Options,-15412.23,4833.62,-31379.32,-26545.7,-11133.47
+Net Asset Value,Data,Dividend Accruals,124.1,2.71,0,2.71,-121.39
+Net Asset Value,Data,Total,31792.874877234,53508.770218479,-31379.32,22129.450218479,-9663.424658755
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,-41.672542714%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,31792.874877234
+Change in NAV,Data,Mark-to-Market,-15096.5272316
+Change in NAV,Data,Deposits & Withdrawals,5437.52
+Change in NAV,Data,Dividends,146
+Change in NAV,Data,Withholding Tax,-21.9
+Change in NAV,Data,Change in Dividend Accruals,-121.39
+Change in NAV,Data,Interest,-0.19
+Change in NAV,Data,Commissions,-6.93742715
+Change in NAV,Data,Ending Value,22129.450218479
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,A2M,300,300,5.5500,5.4000,-29.10813,0,0,0,-29.10813,
+Mark-to-Market Performance Summary,Data,Stocks,AGE,25000,25000,0.0780,0.0560,-367.08025,0,0,0,-367.08025,
+Mark-to-Market Performance Summary,Data,Stocks,BABA,5,5,95.4100,79.9900,-77.1,0,0,0,-77.1,
+Mark-to-Market Performance Summary,Data,Stocks,DBX,100,100,21.3900,20.7200,-67,0,0,0,-67,
+Mark-to-Market Performance Summary,Data,Stocks,GOOG,4,4,109.1500,96.1500,-52,0,0,0,-52,
+Mark-to-Market Performance Summary,Data,Stocks,INTC,400,400,31.9200,25.7700,-2460,0,0,124.1,-2335.9,
+Mark-to-Market Performance Summary,Data,Stocks,NIO,200,200,19.9100,15.7700,-828,0,0,0,-828,
+Mark-to-Market Performance Summary,Data,Stocks,PPH,800,800,1.1450,0.9450,-107.02972,0,0,0,-107.02972,
+Mark-to-Market Performance Summary,Data,Stocks,PTRA,100,100,6.0400,4.9800,-106,0,0,0,-106,
+Mark-to-Market Performance Summary,Data,Stocks,SDR,500,500,3.4500,3.0900,-117.85335,0,0,0,-117.85335,
+Mark-to-Market Performance Summary,Data,Stocks,SOFI,400,400,5.9200,4.8800,-416,0,0,0,-416,
+Mark-to-Market Performance Summary,Data,Stocks,SPY,2,2,395.1800,357.1800,-76,0,0,0,-76,
+Mark-to-Market Performance Summary,Data,Stocks,TSLA,45,0,275.6100,--,1248.3,-262.8,-1.31243405,0,984.18756595,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-3454.87145,-262.8,-1.31243405,124.1,-3594.88388405,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMD 16SEP22 80 P,-1,0,1.9000,--,-159,-10,-0.69915,0,-169.69915,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMD 21OCT22 80 P,0,-1,--,16.7291,-997.99,9.08,-0.7169936,0,-989.6269936,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AYX 20JAN23 60 C,1,1,9.9085,5.7500,-415.85,0,0,0,-415.85,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AYX 20JAN23 65 C,1,1,7.4000,3.9500,-345,0,0,0,-345,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,BABA 19JAN24 75 C,1,1,34.7734,22.6112,-1216.22,0,0,0,-1216.22,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,BABA 19JAN24 165 P,-1,-1,71.3927,85.0675,-1367.48,0,0,0,-1367.48,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,BABA 19JAN24 170 P,-1,-1,75.9725,90.0109,-1403.84,0,0,0,-1403.84,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,BMY 23SEP22 70 P,-1,0,3.3087,--,330.87,-5,-1.47915,0,324.39085,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,C 19JAN24 42.5 C,1,1,10.6833,6.4500,-423.33,0,0,0,-423.33,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,DBX 23SEP22 25 C,-1,0,0.0636,--,6.36,0,0,0,6.36,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,DIS 19JAN24 115 C,1,1,19.2829,9.5750,-970.79,0,0,0,-970.79,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GOOG 16SEP22 110 P,-1,0,3.5006,--,-286.94,22,-0.64915,0,-265.58915,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,GOOG 21OCT22 110 P,0,-1,--,13.9624,-585.26,-25.98,-0.6693065,0,-611.9093065,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NIO 16SEP22 25 C,-1,0,0.1650,--,16.5,0,0,0,16.5,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NIO 23SEP22 23.5 C,-1,0,0.4743,--,47.43,0,0,0,47.43,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NIO 17MAR23 35 P,-5,-5,15.6166,19.3064,-1844.9,0,0,0,-1844.9,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSM 16SEP22 80 P,-1,0,1.3100,--,-80,-9,-0.69915,0,-89.69915,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSM 21OCT22 80 P,0,-1,--,11.4913,-687.1,7.97,-0.712093,0,-679.842093,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-10382.54,-10.93,-5.6249931,0,-10399.0949931,
+Mark-to-Market Performance Summary,Data,Forex,AUD,9438.395,17438.395,0.68426,0.64018,-985.3857816,0,0,0,-985.3857816,
+Mark-to-Market Performance Summary,Data,Forex,USD,374.498154534,14619.420727379,1.0000,1.0000,0,0,0,0,0,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-985.3857816,0,0,0,-985.3857816,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,-14822.7972316,-273.73,-6.93742715,124.1,-14979.36465875,
+Mark-to-Market Performance Summary,Data,Broker Interest Paid and Received,,,,,,,,,,-0.19,
+Total P/L for Statement Period,,,,,,,,,,,,-14979.55465875,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,A2M,0,0,0,0,0,0,95.642892,0,0,0,95.642892,95.642892,
+Realized & Unrealized Performance Summary,Data,Stocks,AGE,0,0,0,0,0,0,0,-436.346688,0,0,-436.346688,-436.346688,
+Realized & Unrealized Performance Summary,Data,Stocks,BABA,0,0,0,0,0,0,0,0,0,-698.55,-698.55,-698.55,
+Realized & Unrealized Performance Summary,Data,Stocks,DBX,0,0,0,0,0,0,0,-384.023579,0,0,-384.023579,-384.023579,
+Realized & Unrealized Performance Summary,Data,Stocks,GOOG,0,0,0,0,0,0,0,-103.6,0,0,-103.6,-103.6,
+Realized & Unrealized Performance Summary,Data,Stocks,INTC,0,0,0,0,0,0,0,-5021.8,0,0,-5021.8,-5021.8,
+Realized & Unrealized Performance Summary,Data,Stocks,NIO,0,0,0,0,0,0,0,-623.249947,0,0,-623.249947,-623.249947,
+Realized & Unrealized Performance Summary,Data,Stocks,PPH,0,0,0,0,0,0,0,0,0,-285.904388,-285.904388,-285.904388,
+Realized & Unrealized Performance Summary,Data,Stocks,PTRA,0,0,0,0,0,0,0,-50.8,0,0,-50.8,-50.8,
+Realized & Unrealized Performance Summary,Data,Stocks,SDR,0,0,0,0,0,0,0,-1186.957738,0,0,-1186.957738,-1186.957738,
+Realized & Unrealized Performance Summary,Data,Stocks,SOFI,0,0,0,0,0,0,0,-417.03,0,0,-417.03,-417.03,
+Realized & Unrealized Performance Summary,Data,Stocks,SPY,0,0,0,0,0,0,0,-60.18,0,0,-60.18,-60.18,
+Realized & Unrealized Performance Summary,Data,Stocks,TSLA,0,3371.18756595,0,0,0,3371.18756595,0,0,0,0,0,3371.18756595,
+Realized & Unrealized Performance Summary,Data,Total,,0,3371.18756595,0,0,0,3371.18756595,95.642892,-8283.987952,0,-984.454388,-9172.799448,-5801.61188205,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMD 16SEP22 80 P,0,0,-285.742198,0,0,-285.742198,0,0,0,0,0,-285.742198,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMD 21OCT22 80 P,0,0,0,0,0,0,0,-989.626994,0,0,-989.626994,-989.626994,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AYX 20JAN23 60.0 C,0,0,0,0,0,0,0,0,0,-1926.043,-1926.043,-1926.043,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AYX 20JAN23 65.0 C,0,0,0,0,0,0,0,0,0,-2505.6378,-2505.6378,-2505.6378,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,BABA 19JAN24 75.0 C,0,0,0,0,0,0,0,-1589.62915,0,0,-1589.62915,-1589.62915,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,BABA 19JAN24 165.0 P,0,0,0,0,0,0,0,-2065.456204,0,0,-2065.456204,-2065.456204,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,BABA 19JAN24 170.0 P,0,0,0,0,0,0,0,-2071.798693,0,0,-2071.798693,-2071.798693,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,BMY 23SEP22 70 P,0,72.887688,0,0,0,72.887688,0,0,0,0,0,72.887688,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,C 19JAN24 42.5 C,0,0,0,0,0,0,0,-706.03915,0,0,-706.03915,-706.03915,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,DBX 23SEP22 25 C,0,28.957983,0,0,0,28.957983,0,0,0,0,0,28.957983,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,DIS 19JAN24 115.0 C,0,0,0,0,0,0,0,-2993.24915,0,0,-2993.24915,-2993.24915,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GOOG 16SEP22 110 P,0,0,-501.703113,0,0,-501.703113,0,0,0,0,0,-501.703113,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,GOOG 21OCT22 110 P,0,0,0,0,0,0,0,-611.909306,0,0,-611.909306,-611.909306,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NIO 16SEP22 25 C,0,47.367571,0,0,0,47.367571,0,0,0,0,0,47.367571,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NIO 23SEP22 23.5 C,0,38.957754,0,0,0,38.957754,0,0,0,0,0,38.957754,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NIO 17MAR23 35 P,0,0,0,0,0,0,0,-1107.222399,0,0,-1107.222399,-1107.222399,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSM 16SEP22 80 P,0,0,-102.553205,0,0,-102.553205,0,0,0,0,0,-102.553205,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSM 21OCT22 80 P,0,0,0,0,0,0,0,-679.842093,0,0,-679.842093,-679.842093,
+Realized & Unrealized Performance Summary,Data,Total,,0,188.170996,-889.998516,0,0,-701.82752,0,-12814.773139,0,-4431.6808,-17246.453939,-17948.281459,
+Realized & Unrealized Performance Summary,Data,Forex,AUD,0,0,0,0,0,0,0,-1004.972144,0,0,-1004.972144,-1004.972144,
+Realized & Unrealized Performance Summary,Data,Total,,0,0,0,0,0,0,0,-1004.972144,0,0,-1004.972144,-1004.972144,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,3559.35856195,-889.998516,0,0,2669.36004595,95.642892,-22103.733235,0,-5416.135188,-27424.225531,-24754.86548505,
+Cash Report,Header,Currency Summary,Currency,Total,
+Cash Report,Data,Starting Cash,Base Currency Summary,6832.814317234,
+Cash Report,Data,Commissions,Base Currency Summary,-6.93742715,
+Cash Report,Data,Deposits,Base Currency Summary,5437.52,
+Cash Report,Data,Dividends,Base Currency Summary,146,
+Cash Report,Data,Broker Interest Paid and Received,Base Currency Summary,-0.19,
+Cash Report,Data,Trades (Sales),Base Currency Summary,15326.95,
+Cash Report,Data,Trades (Purchase),Base Currency Summary,-1199,
+Cash Report,Data,Withholding Tax,Base Currency Summary,-21.9,
+Cash Report,Data,Cash FX Translation Gain/Loss,Base Currency Summary,-732.1244516,
+Cash Report,Data,Ending Cash,Base Currency Summary,25783.132438479,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,25783.132438479,
+Cash Report,Data,Starting Cash,AUD,9438.395,
+Cash Report,Data,Deposits,AUD,8000,
+Cash Report,Data,Ending Cash,AUD,17438.395,
+Cash Report,Data,Ending Settled Cash,AUD,17438.395,
+Cash Report,Data,Starting Cash,USD,374.498154534,
+Cash Report,Data,Commissions,USD,-6.93742715,
+Cash Report,Data,Dividends,USD,146,
+Cash Report,Data,Broker Interest Paid and Received,USD,-0.19,
+Cash Report,Data,Trades (Sales),USD,15326.95,
+Cash Report,Data,Trades (Purchase),USD,-1199,
+Cash Report,Data,Withholding Tax,USD,-21.9,
+Cash Report,Data,Ending Cash,USD,14619.420727379,
+Cash Report,Data,Ending Settled Cash,USD,14619.420727379,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Stocks,AUD,A2M,300,1,4.902,1470.6,5.4,1620,149.4,
+Open Positions,Data,Summary,Stocks,AUD,AGE,25000,1,0.083264,2081.6,0.056,1400,-681.6,
+Open Positions,Data,Summary,Stocks,AUD,PPH,800,1,1.50325,1202.6,0.945,756,-446.6,
+Open Positions,Data,Summary,Stocks,AUD,SDR,500,1,6.7982,3399.1,3.09,1545,-1854.1,
+Open Positions,Total,,Stocks,AUD,,,,,8153.9,,5321,-2832.9,
+Open Positions,Total,,Stocks,USD,,,,,5219.963702,,3406.39778,-1813.565922,
+Open Positions,Data,Summary,Stocks,USD,BABA,5,1,219.7,1098.5,79.99,399.95,-698.55,
+Open Positions,Data,Summary,Stocks,USD,DBX,100,1,24.56023579,2456.023579,20.72,2072,-384.023579,
+Open Positions,Data,Summary,Stocks,USD,GOOG,4,1,122.05,488.2,96.15,384.6,-103.6,
+Open Positions,Data,Summary,Stocks,USD,INTC,400,1,38.3245,15329.8,25.77,10308,-5021.8,
+Open Positions,Data,Summary,Stocks,USD,NIO,200,1,18.886249735,3777.249947,15.77,3154,-623.249947,
+Open Positions,Data,Summary,Stocks,USD,PTRA,100,1,5.488,548.8,4.98,498,-50.8,
+Open Positions,Data,Summary,Stocks,USD,SOFI,400,1,5.922575,2369.03,4.88,1952,-417.03,
+Open Positions,Data,Summary,Stocks,USD,SPY,2,1,387.27,774.54,357.18,714.36,-60.18,
+Open Positions,Total,,Stocks,USD,,,,,26842.143526,,19482.91,-7359.233526,
+Open Positions,Total,,Stocks,USD,,,,,32062.107228,,22889.30778,-9172.799448,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Equity and Index Options,USD,AMD 21OCT22 80 P,-1,100,6.83283006,-683.283006,16.7291,-1672.91,-989.626994,
+Open Positions,Data,Summary,Equity and Index Options,USD,AYX 20JAN23 60 C,1,100,25.01043,2501.043,5.75,575,-1926.043,
+Open Positions,Data,Summary,Equity and Index Options,USD,AYX 20JAN23 65 C,1,100,29.006378,2900.6378,3.95,395,-2505.6378,
+Open Positions,Data,Summary,Equity and Index Options,USD,BABA 19JAN24 75 C,1,100,38.5074915,3850.74915,22.6112,2261.12,-1589.62915,
+Open Positions,Data,Summary,Equity and Index Options,USD,BABA 19JAN24 165 P,-1,100,64.41293796,-6441.293796,85.0675,-8506.75,-2065.456204,
+Open Positions,Data,Summary,Equity and Index Options,USD,BABA 19JAN24 170 P,-1,100,69.29291307,-6929.291307,90.0109,-9001.09,-2071.798693,
+Open Positions,Data,Summary,Equity and Index Options,USD,C 19JAN24 42.5 C,1,100,13.5103915,1351.03915,6.45,645,-706.03915,
+Open Positions,Data,Summary,Equity and Index Options,USD,DIS 19JAN24 115 C,1,100,39.5074915,3950.74915,9.575,957.5,-2993.24915,
+Open Positions,Data,Summary,Equity and Index Options,USD,GOOG 21OCT22 110 P,-1,100,7.84330694,-784.330694,13.9624,-1396.24,-611.909306,
+Open Positions,Data,Summary,Equity and Index Options,USD,NIO 17MAR23 35 P,-5,100,17.091955202,-8545.977601,19.3064,-9653.2,-1107.222399,
+Open Positions,Data,Summary,Equity and Index Options,USD,TSM 21OCT22 80 P,-1,100,4.69287907,-469.287907,11.4913,-1149.13,-679.842093,
+Open Positions,Total,,Equity and Index Options,USD,,,,,-9299.246061,,-26545.7,-17246.453939,
+Forex Balances,Header,Asset Category,Currency,Description,Quantity,Cost Price,Cost Basis in USD,Close Price,Value in USD,Unrealized P/L in USD,Code
+Forex Balances,Data,Forex,USD,AUD,17438.395,0.697809853,-12168.683855,0.64018,11163.711711,-1004.972144,
+Forex Balances,Data,Forex,USD,USD,14619.420727379,1,-14619.420727379,1,14619.420727379,0,
+Forex Balances,Data,Total,,,,,-26788.104582379,,25783.132438379,-1004.972144,
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,TSLA,"2022-09-17, 00:31:49",-45,297.51,303.35,13387.95,-1.312434055,-10015.45,3371.187566,-262.8,C
+Trades,SubTotal,,Stocks,USD,TSLA,,-45,,,13387.95,-1.312434055,-10015.45,3371.187566,-262.8,
+Trades,Total,,Stocks,USD,,,,,,13387.95,-1.312434055,-10015.45,3371.187566,-262.8, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Equity and Index Options,USD,AMD 16SEP22 80 P,"2022-09-17, 00:32:31",1,3.59,3.49,-359,-0.69915,73.956952,-285.742198,-10,C
+Trades,SubTotal,,Equity and Index Options,USD,AMD 16SEP22 80 P,,1,,,-359,-0.69915,73.956952,-285.742198,-10,
+Trades,Data,Order,Equity and Index Options,USD,AMD 21OCT22 80 P,"2022-09-17, 00:32:31",-1,6.84,6.7492,684,-0.7169936,-683.2830064,0,9.08,O
+Trades,SubTotal,,Equity and Index Options,USD,AMD 21OCT22 80 P,,-1,,,684,-0.7169936,-683.2830064,0,9.08,
+Trades,Data,Order,Equity and Index Options,USD,BMY 23SEP22 70 P,"2022-09-24, 00:54:21",1,0.05,0,-5,-1.47915,79.366838,72.887688,-5,C
+Trades,SubTotal,,Equity and Index Options,USD,BMY 23SEP22 70 P,,1,,,-5,-1.47915,79.366838,72.887688,-5,
+Trades,Data,Order,Equity and Index Options,USD,DBX 23SEP22 25 C,"2022-09-24, 06:20:00",1,0,0,0,0,28.957983,28.957983,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,DBX 23SEP22 25 C,,1,,,0,0,28.957983,28.957983,0,
+Trades,Data,Order,Equity and Index Options,USD,GOOG 16SEP22 110 P,"2022-09-17, 00:36:14",1,6.15,6.37,-615,-0.64915,113.946037,-501.703113,22,C
+Trades,SubTotal,,Equity and Index Options,USD,GOOG 16SEP22 110 P,,1,,,-615,-0.64915,113.946037,-501.703113,22,
+Trades,Data,Order,Equity and Index Options,USD,GOOG 21OCT22 110 P,"2022-09-17, 00:36:14",-1,7.85,8.1098,785,-0.6693065,-784.3306935,0,-25.98,O
+Trades,SubTotal,,Equity and Index Options,USD,GOOG 21OCT22 110 P,,-1,,,785,-0.6693065,-784.3306935,0,-25.98,
+Trades,Data,Order,Equity and Index Options,USD,NIO 16SEP22 25 C,"2022-09-17, 06:20:00",1,0,0,0,0,47.367571,47.367571,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NIO 16SEP22 25 C,,1,,,0,0,47.367571,47.367571,0,
+Trades,Data,Order,Equity and Index Options,USD,NIO 23SEP22 23.5 C,"2022-09-24, 06:20:00",1,0,0,0,0,38.957754,38.957754,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NIO 23SEP22 23.5 C,,1,,,0,0,38.957754,38.957754,0,
+Trades,Data,Order,Equity and Index Options,USD,TSM 16SEP22 80 P,"2022-09-17, 00:36:22",1,2.2,2.11,-220,-0.69915,118.145945,-102.553205,-9,C
+Trades,SubTotal,,Equity and Index Options,USD,TSM 16SEP22 80 P,,1,,,-220,-0.69915,118.145945,-102.553205,-9,
+Trades,Data,Order,Equity and Index Options,USD,TSM 21OCT22 80 P,"2022-09-17, 00:36:22",-1,4.7,4.6203,470,-0.712093,-469.287907,0,7.97,O
+Trades,SubTotal,,Equity and Index Options,USD,TSM 21OCT22 80 P,,-1,,,470,-0.712093,-469.287907,0,7.97,
+Trades,Total,,Equity and Index Options,USD,,,,,,740,-5.6249931,-1436.2025269,-701.82752,-10.93, 
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,AUD,2022-09-05,Electronic Fund Transfer,8000
+Deposits & Withdrawals,Data,Total,,,8000
+Deposits & Withdrawals,Data,Total in USD,,,5437.52
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2022-09-02,INTC(US4581401001) Cash Dividend USD 0.365 per Share (Ordinary Dividend),146
+Dividends,Data,Total,,,146
+Withholding Tax,Header,Currency,Date,Description,Amount,Code
+Withholding Tax,Data,USD,2022-09-02,INTC(US4581401001) Cash Dividend USD 0.365 per Share - US Tax,-21.9,
+Withholding Tax,Data,Total,,,-21.9,
+Interest,Header,Currency,Date,Description,Amount
+Interest,Data,USD,2022-09-06,USD Debit Interest for Aug-2022,-0.19
+Interest,Data,Total,,,-0.19
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,0
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,-0.19
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,0.19
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,0
+Change in Dividend Accruals,Header,Asset Category,Currency,Symbol,Date,Ex Date,Pay Date,Quantity,Tax,Fee,Gross Rate,Gross Amount,Net Amount,Code
+Change in Dividend Accruals,Data,Starting Dividend Accruals in USD,,,,,,,,,,,124.1,
+Change in Dividend Accruals,Data,Stocks,USD,INTC,2022-09-02,2022-08-04,2022-09-01,400,-21.9,0,0.365,-146,-124.1,Re
+Change in Dividend Accruals,Data,Stocks,USD,SPY,2022-09-16,2022-09-16,2022-10-31,2,0.48,0,1.596398,3.19,2.71,Po
+Change in Dividend Accruals,Data,Total,,,,,,,-21.42,0,,-142.81,-121.39,
+Change in Dividend Accruals,Data,Ending Dividend Accruals in USD,,,,,,,,,,,2.71,
+IBKR Managed Securities Collateral Held at IBSS (Stock Yield Enhancement Program),Header,Asset Category,Currency,Symbol,Quantity,Price,Value
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,A2M,A2 MILK CO LTD,189114468,NZATME0002S8,ASX,1,COMMON,
+Financial Instrument Information,Data,Stocks,AGE,ALLIGATOR ENERGY LTD,83662625,AU000000AGE2,ASX,1,COMMON,
+Financial Instrument Information,Data,Stocks,BABA,ALIBABA GROUP HOLDING-SP ADR,166090175,US01609W1027,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,DBX,DROPBOX INC-CLASS A,311892159,US26210C1045,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,GOOG,ALPHABET INC-CL C,208813720,US02079K1079,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,INTC,INTEL CORP,270639,US4581401001,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,NIO,NIO INC - ADR,332794741,US62914V1061,NYSE,1,ADR,
+Financial Instrument Information,Data,Stocks,PPH,PUSHPAY HOLDINGS LTD,456539878,NZPPHE0001S6,ASX,1,COMMON,
+Financial Instrument Information,Data,Stocks,PTRA,PROTERRA INC,496878939,US74374T1097,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,SDR,SITEMINDER LTD,524923847,AU0000183543,ASX,1,COMMON,
+Financial Instrument Information,Data,Stocks,SOFI,SOFI TECHNOLOGIES INC,494162724,US83406F1021,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,SPY,SPDR S&P 500 ETF TRUST,756733,US78462F1030,ARCA,1,ETF,
+Financial Instrument Information,Data,Stocks,TSLA,TESLA INC,76792991,US88160R1014,NASDAQ,1,COMMON,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Listing Exch,Multiplier,Expiry,Delivery Month,Type,Strike,Code
+Financial Instrument Information,Data,Equity and Index Options,AMD   220916P00080000,AMD 16SEP22 80 P,503839085,CBOE,100,2022-09-16,2022-09,P,80,
+Financial Instrument Information,Data,Equity and Index Options,AMD   221021P00080000,AMD 21OCT22 80 P,545061708,CBOE,100,2022-10-21,2022-10,P,80,
+Financial Instrument Information,Data,Equity and Index Options,AYX   230120C00060000,AYX 20JAN23 60 C,445245227,CBOE,100,2023-01-20,2023-01,C,60,
+Financial Instrument Information,Data,Equity and Index Options,AYX   230120C00065000,AYX 20JAN23 65 C,444923518,CBOE,100,2023-01-20,2023-01,C,65,
+Financial Instrument Information,Data,Equity and Index Options,BABA  240119C00075000,BABA 19JAN24 75 C,516121862,CBOE,100,2024-01-19,2024-01,C,75,
+Financial Instrument Information,Data,Equity and Index Options,BABA  240119P00165000,BABA 19JAN24 165 P,513955641,CBOE,100,2024-01-19,2024-01,P,165,
+Financial Instrument Information,Data,Equity and Index Options,BABA  240119P00170000,BABA 19JAN24 170 P,513955662,CBOE,100,2024-01-19,2024-01,P,170,
+Financial Instrument Information,Data,Equity and Index Options,BMY   220923P00070000,BMY 23SEP22 70 P,577838501,CBOE,100,2022-09-23,2022-09,P,70,
+Financial Instrument Information,Data,Equity and Index Options,C     240119C00042500,C 19JAN24 42.5 C,515425644,CBOE,100,2024-01-19,2024-01,C,42.5,
+Financial Instrument Information,Data,Equity and Index Options,DBX   220923C00025000,DBX 23SEP22 25 C,577850862,CBOE,100,2022-09-23,2022-09,C,25,
+Financial Instrument Information,Data,Equity and Index Options,DIS   240119C00115000,DIS 19JAN24 115 C,515449386,CBOE,100,2024-01-19,2024-01,C,115,
+Financial Instrument Information,Data,Equity and Index Options,GOOG  220916P00110000,GOOG 16SEP22 110 P,528986423,CBOE,100,2022-09-16,2022-09,P,110,
+Financial Instrument Information,Data,Equity and Index Options,GOOG  221021P00110000,GOOG 21OCT22 110 P,552502743,CBOE,100,2022-10-21,2022-10,P,110,
+Financial Instrument Information,Data,Equity and Index Options,NIO   220916C00025000,NIO 16SEP22 25 C,490657557,CBOE,100,2022-09-16,2022-09,C,25,
+Financial Instrument Information,Data,Equity and Index Options,NIO   220923C00023500,NIO 23SEP22 23.5 C,577902941,CBOE,100,2022-09-23,2022-09,C,23.5,
+Financial Instrument Information,Data,Equity and Index Options,NIO   230317P00035000,NIO 17MAR23 35 P,554323840,CBOE,100,2023-03-17,2023-03,P,35,
+Financial Instrument Information,Data,Equity and Index Options,TSM   220916P00080000,TSM 16SEP22 80 P,519399678,CBOE,100,2022-09-16,2022-09,P,80,
+Financial Instrument Information,Data,Equity and Index Options,TSM   221021P00080000,TSM 21OCT22 80 P,545499894,CBOE,100,2022-10-21,2022-10,P,80,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as principal."
+Codes,Data,FPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as principal.
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,GEA,Exercise or Assignment resulting from offsetting positions
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,This transaction was executed against an IB affiliate
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,P,Partial Execution
+Codes,Data,PI,Price Improvement
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RI,Recurring Investment
+Codes,Data,RP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as riskless principal."
+Codes,Data,RPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as riskless principal.
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,Notes,"This statement has been prepared by Interactive Brokers Australia Pty Ltd AFSL 453554, ABN 98 166 929 568, Level 40, Grosvenor Place, 255 George Street, Sydney NSW to confirm the Transactions covered herein.IBA is a participant of ASX market, the ASX 24 market and the Chi-X Australia market."
+Notes/Legal Notes,Data,Notes,"Transactions in products on Australia exchanges which settle via CHESS ((including ordinary shares, units, bonds, hybrids, CDIs, exchange-traded Australian Government Bonds (AGBs) , exchange-traded products (including ETFs), warrants and instalments)) settle on trade date plus two days, i.e. T+2, and options and futures settle on trade date plus one day, i.e. T+1. Share (including stock) transactions on international exchanges generally settle on trade date plus 3 days, i.e. T+3 (some exchanges have longer or shorter settlement periods) and options and futures traded on international exchanges settle on the trade date plus one day, i.e. T+1. A reference to a ""trade date"" is a reference to the trade date in the place where the market for the relevant product is located. Ending settled cash reflects the cash which has actually settled. "
+Notes/Legal Notes,Data,Notes,Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation.
+Notes/Legal Notes,Data,Notes,Quantities preceded by a "-" sign indicate sell transactions. Other transactions are purchases.
+Notes/Legal Notes,Data,Notes,"In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only."
+Notes/Legal Notes,Data,Notes,Each closed lot indicated above with a reference to note (6) was chosen by the end of the trading day to be sold versus the specific opening purchase identified in that row.
+Notes/Legal Notes,Data,Notes,Times are displayed in Australian Eastern Standard Time (AEST)/Australian Eastern Daylight Savings Time (AEDT); there will therefore be a difference between the times reported in this statement/report and the times that a trade is reported by the exchange to have occurred in markets which operate in a different time zone. This report covers the period which begins at 10am on a given day through to 10am on the day following the given day unless otherwise indicated. 
+Notes/Legal Notes,Data,Notes,"You are responsible for promptly checking this statement. You must immediately notify IBA if you become aware that there is an error in this statement. We are entitled to assume that the trades confirmed in this statement are correct unless you notify us of any error within 24 hours following IBA (or someone on its behalf) giving you this statement. If IBA confirms execution or cancellation in error and you delay reporting such error, IBA reserves the right to remove the Transaction from the account or require you to accept the Transaction, in IBA's absolute discretion. Please contact the Interactive Brokers Australia Customer Service Department through by lodging a ticket via account management or via the other means outlined on our website. You may also contact IB by phone, but if you report an error by phone, you should reconfirm such oral communication in writing."
+Notes/Legal Notes,Data,Notes,"Unless otherwise noted, Interactive Brokers acted as agent in the execution of all exchange traded products. IBA acts as principal in all over-the-counter transactions, including foreign currency spot and contracts for difference."
+Notes/Legal Notes,Data,Notes,"All VWAP trades are effected pursuant to an average price formula based on a reference price provided by a third-party data provider. Additional information and reference prices are available upon request. IBA, as agent, effects VWAP transactions through a market making affiliate, which acts as principal in such transactions and may have a long or short position in the security and may have profited or lost in connection with the transaction."
+Notes/Legal Notes,Data,Notes,"All reports, statements and confirmations issued by IBA are subject to the Applicable Laws, the directions, decisions and requirements of the relevant market operator, the clearing rules and where relevant, the relevant settlement rules, the customs and usages of the relevant financial market and the correction of errors and omissions."
+Notes/Legal Notes,Data,Notes,"Trades in Cash Market Products (as that term is defined in the relevant market integrity rules) on ASX and Chi-X Australia are cleared by BNP Paribas Securities Services, ARBN 149 440 291, AFSL 402467, who is a participant of ASX Clear Pty Ltd and ASX Settlement Pty Ltd. Trades in Derivative Products on ASX and all products on ASX 24 are cleared by Interactive Brokers Australia as a participant of ASX Clear Pty Ltd and ASX Clear (Futures) Pty Ltd. If your transaction was a crossing transaction, IBA may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and act as Principal on the other side. Under the Corporations Act 2001, where IBA enters into an exchange traded derivatives on a customer's behalf, IB is regarded as having issued the derivative to the customer. "
+Notes/Legal Notes,Data,Notes,Applicable fees for your transactions is available on the Interactive Brokers Australia website www.interactivebrokers.com.au under "Pricing".
+Notes/Legal Notes,Data,Notes,"Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the cash collateral amount on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks. "
+Notes/Legal Notes,Data,Notes,"The closing prices on this Activity Statement are indicative and may come from third-party sources. While Interactive Brokers Australia reasonably believes the information presented in this statement is correct, Interactive Brokers Australia does not warrant the accuracy of the prices provided by third-party sources. "
+Notes/Legal Notes,Data,Notes,All Market Data and Research services are provided through Global Financial Information Services (GmbH).
+Notes/Legal Notes,Data,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Notes/Legal Notes,Data,Offshore Markets Notes: The following specific notices relate to transactions occurring on non-Australian markets only: ,"Affiliates of Interactive Brokers Australia receive compensation from fund companies in connection with the purchase and holding of mutual fund shares by customers of Interactive Brokers LLC. Such compensation includes, but is not limited to, Rule 12b-1 fees which are paid out of the funds assets. The source and amount of any remuneration received will be furnished upon written request of the customer. "
+Notes/Legal Notes,Data,Offshore Markets Notes: The following specific notices relate to transactions occurring on non-Australian markets only: ,"The following entities clear non-Australian exchange transactions: Interactive Brokers LLC; Interactive Brokers Canada Inc.; Interactive Brokers Hong Kong Limited; Interactive Brokers Securities Japan, Inc.; Interactive Brokers (U.K.) Limited; Timber Hill Europe AG; Timber Hill LLC; ABN Amro Clearing Singapore Pte. Ltd.; BBVA Bancomer, S.A.; BNP Paribas Securities Services, Milan Branch; Citibank International plc; Euroclear Bank S.A./N.V.; Shinhan Securities Co., Ltd.; Skandinaviska Enskilda Banken AB.; Skandinaviska Enskilda Merchang Banking, Oslo Branch"
+Notes/Legal Notes,Data,Offshore Markets Notes: The following specific notices relate to transactions occurring on non-Australian markets only: ,"Trades marked with the exchange indicator of TMBR were effected by IBA as agent through a market making affiliate, which acted as principal in the transaction and may have a long or short position in the security and may have profited or lost in connection with the transaction. "
+Notes/Legal Notes,Data,Offshore Markets Notes: The following specific notices relate to transactions occurring on non-Australian markets only: ,"Affiliates of IBA may also receive liquidity rebates from Alternative Trading Systems and exchanges for certain orders. Affiliates of IBA may receive payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. Affiliates of IBA do not generally accept payment for order flow for security futures orders. The source and nature of any compensation received by an affiliate of IBA in connection with any transaction is available upon written request of the customer. For further information, including a full list of IBA's affiliates, check the IB AU website or email help@interactivebrokers.com."
