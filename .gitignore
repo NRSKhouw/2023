@@ -2,3 +2,6 @@
 *.csv
 *.htm
 *.pdf
+
+# vscode settings file
+*.code-workspace
